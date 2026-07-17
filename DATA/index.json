@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T00:34:26.348Z",
+  "generatedAt": "2026-07-17T00:35:44.663Z",
   "datasets": [
     {
       "exam": "ssc",
@@ -60,6 +60,48 @@
       "year": "2025",
       "group": "science",
       "count": 33935
+    },
+    {
+      "exam": "hsc",
+      "year": "2023",
+      "group": "science",
+      "count": 20334
+    },
+    {
+      "exam": "hsc",
+      "year": "2024",
+      "group": "arts",
+      "count": 21286
+    },
+    {
+      "exam": "hsc",
+      "year": "2024",
+      "group": "commerce",
+      "count": 24127
+    },
+    {
+      "exam": "hsc",
+      "year": "2024",
+      "group": "science",
+      "count": 20200
+    },
+    {
+      "exam": "hsc",
+      "year": "2025",
+      "group": "arts",
+      "count": 14896
+    },
+    {
+      "exam": "hsc",
+      "year": "2025",
+      "group": "commerce",
+      "count": 16677
+    },
+    {
+      "exam": "hsc",
+      "year": "2025",
+      "group": "science",
+      "count": 17188
     }
   ]
 }
