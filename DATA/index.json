@@ -1,0 +1,47 @@
+{
+  "generatedAt": "2026-07-17T00:33:26.916Z",
+  "datasets": [
+    {
+      "exam": "ssc",
+      "year": "2022",
+      "group": "science",
+      "count": 29650
+    },
+    {
+      "exam": "ssc",
+      "year": "2023",
+      "group": "arts",
+      "count": 32947
+    },
+    {
+      "exam": "ssc",
+      "year": "2023",
+      "group": "commerce",
+      "count": 47185
+    },
+    {
+      "exam": "ssc",
+      "year": "2023",
+      "group": "science",
+      "count": 31297
+    },
+    {
+      "exam": "ssc",
+      "year": "2024",
+      "group": "arts",
+      "count": 40000
+    },
+    {
+      "exam": "ssc",
+      "year": "2024",
+      "group": "commerce",
+      "count": 41704
+    },
+    {
+      "exam": "ssc",
+      "year": "2024",
+      "group": "science",
+      "count": 34393
+    }
+  ]
+}
