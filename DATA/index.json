@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T00:33:26.916Z",
+  "generatedAt": "2026-07-17T00:34:26.348Z",
   "datasets": [
     {
       "exam": "ssc",
@@ -42,6 +42,24 @@
       "year": "2024",
       "group": "science",
       "count": 34393
+    },
+    {
+      "exam": "ssc",
+      "year": "2025",
+      "group": "arts",
+      "count": 39452
+    },
+    {
+      "exam": "ssc",
+      "year": "2025",
+      "group": "commerce",
+      "count": 364
+    },
+    {
+      "exam": "ssc",
+      "year": "2025",
+      "group": "science",
+      "count": 33935
     }
   ]
 }
